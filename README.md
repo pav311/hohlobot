@@ -1,2 +1,2 @@
 # hohlobot
-`python3 main.py <api token>`
+`python3 main.py`
